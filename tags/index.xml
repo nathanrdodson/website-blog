@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on nrd blog</title>
-    <link>blog.nathandodson.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on nrd blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/nathanrdodson&#34;&gt;Nathan Dodson&lt;/a&gt; 2020</copyright>
     
-	<atom:link href="blog.nathandodson.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

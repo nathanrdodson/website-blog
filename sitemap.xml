@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>blog.nathandodson.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>blog.nathandodson.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
