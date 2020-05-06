@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uk on nrd blog</title>
+    <link>/tags/uk/</link>
+    <description>Recent content in uk on nrd blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/nathanrdodson&#34;&gt;Nathan Dodson&lt;/a&gt; 2020</copyright>
+    <lastBuildDate>Mon, 05 Aug 2019 11:32:42 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Few Days in the UK</title>
+      <link>/posts/unitedkingdomtime/</link>
+      <pubDate>Mon, 05 Aug 2019 11:32:42 -0500</pubDate>
+      
+      <guid>/posts/unitedkingdomtime/</guid>
+      <description>Arriving in the Manchester International Airport was less stressful than I initially anticipated it to be - we got through customs without even talking to anyone, got our bags within the next 10 minutes, and met up with my Aunt. In terms of sleepiness, the excitement of meeting everyone overcame that feeling for the first few hours. When we landed, mind you, it was 7:30am so I had a whole day to get through (after having got no sleep on the plane…).</description>
+    </item>
+    
+    <item>
+      <title>In the air!</title>
+      <link>/posts/intheair/</link>
+      <pubDate>Wed, 31 Jul 2019 11:32:42 -0500</pubDate>
+      
+      <guid>/posts/intheair/</guid>
+      <description>So my really well thought out plan to beat the jet lag failed miserably. It was about 9:00pm CST, and I decided that with five hours left in the flight I should just try and go to sleep then and there, Well I got my headphones plugged in and music turned on and sleep mask ready - I was asleep in 10 minutes,,,, Only to wake up 30 minutes later, unable to sleep any longer.</description>
+    </item>
+    
+    <item>
+      <title>Trip Preparation</title>
+      <link>/posts/tripprep/</link>
+      <pubDate>Tue, 30 Jul 2019 11:32:42 -0500</pubDate>
+      
+      <guid>/posts/tripprep/</guid>
+      <description>For my trip to Europe, my preparation has been significantly more intensive than what would be considered “normal” on previous trips I’ve had. This is mainly because I have set a few goals for myself, some small, and some much larger.
+For starters, I want to beat the jet lag - at least on my flight to Manchester. Our current itinerary has us leaving Atlanta at 6:00PM and arriving in Manchester just before 7:00AM.</description>
+    </item>
+    
+  </channel>
+</rss>

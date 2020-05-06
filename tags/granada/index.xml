@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>granada on nrd blog</title>
+    <link>/tags/granada/</link>
+    <description>Recent content in granada on nrd blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/nathanrdodson&#34;&gt;Nathan Dodson&lt;/a&gt; 2020</copyright>
+    <lastBuildDate>Sat, 10 Aug 2019 17:32:42 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/granada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Granada, España - Day 1</title>
+      <link>/posts/granada-day1/</link>
+      <pubDate>Sat, 10 Aug 2019 17:32:42 -0500</pubDate>
+      
+      <guid>/posts/granada-day1/</guid>
+      <description>After a long day the night before, my mom and I weren’t particularly quick to get out of bed. We dragged ourselves downstairs by 10:30am before the breakfast closed at 11. The breakfast was what you would expect from a standard European hotel - lots of cheeses and cold meats, alongside juice and pastries.
+We had originally planned for this day to be a quiet day to familiarize ourself with the city, and that is almost exactly what it ended up being.</description>
+    </item>
+    
+    <item>
+      <title>Landed in Spain</title>
+      <link>/posts/granada-day0/</link>
+      <pubDate>Sat, 10 Aug 2019 11:32:42 -0500</pubDate>
+      
+      <guid>/posts/granada-day0/</guid>
+      <description>The next step in our European adventure takes place in the lovely city of Granada, Spain. Our flight from Manchester was only a short 2.5 hours, and customs in Granada was a breeze (the customs agent was super cool, he gave me a stamp). Getting off the plane, we were met with the beautiful Granada sun, pictured below in all of its glory:
+Our driver was prompt, and spoke little English which was to be expected.</description>
+    </item>
+    
+  </channel>
+</rss>
