@@ -7,17 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/nathanrdodson&#34;&gt;Nathan Dodson&lt;/a&gt; 2020</copyright>
-    <lastBuildDate>Tue, 07 Apr 2020 17:32:42 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jan 2021 23:59:59 -0500</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>movies</title>
+      <link>/tags/movies/</link>
+      <pubDate>Sun, 17 Jan 2021 23:59:59 -0500</pubDate>
+      
+      <guid>/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>television</title>
+      <link>/tags/television/</link>
+      <pubDate>Sun, 17 Jan 2021 23:59:59 -0500</pubDate>
+      
+      <guid>/tags/television/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>anime</title>
       <link>/tags/anime/</link>
-      <pubDate>Tue, 07 Apr 2020 17:32:42 -0500</pubDate>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deathnote</title>
+      <link>/tags/deathnote/</link>
+      <pubDate>Fri, 17 Apr 2020 17:32:42 -0500</pubDate>
+      
+      <guid>/tags/deathnote/</guid>
       <description></description>
     </item>
     
